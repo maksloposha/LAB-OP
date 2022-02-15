@@ -1,0 +1,6 @@
+﻿  Header.cpp
+C:\Users\admin\source\repos\ConsoleApplication2\ConsoleApplication2\Header.cpp(34): warning C4715: Input: значение возвращается не при всех путях выполнения
+C:\Users\admin\source\repos\ConsoleApplication2\ConsoleApplication2\Header.cpp(98): warning C4715: clean: значение возвращается не при всех путях выполнения
+C:\Users\admin\source\repos\ConsoleApplication2\ConsoleApplication2\Header.cpp(86): warning C4715: output: значение возвращается не при всех путях выполнения
+C:\Users\admin\source\repos\ConsoleApplication2\ConsoleApplication2\Header.cpp(62): warning C4715: text_mod: значение возвращается не при всех путях выполнения
+  ConsoleApplication2.vcxproj -> C:\Users\admin\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
