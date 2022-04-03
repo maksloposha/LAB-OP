@@ -1,0 +1,8 @@
+﻿  Header.cpp
+C:\Users\admin\source\repos\lab2_2\lab2_2\Header.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\lab2_2\lab2_2\Header.cpp(60,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\lab2_2\lab2_2\Header.cpp(124,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\lab2_2\lab2_2\Header.cpp(131,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\lab2_2\lab2_2\Header.cpp(107): warning C4715: output: значение возвращается не при всех путях выполнения
+C:\Users\admin\source\repos\lab2_2\lab2_2\Header.cpp(93): warning C4715: text_mod: значение возвращается не при всех путях выполнения
+  lab2_2.vcxproj -> C:\Users\admin\source\repos\lab2_2\Debug\lab2_2.exe
