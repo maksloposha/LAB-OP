@@ -1,0 +1,4 @@
+﻿  lab4_2.cpp
+C:\Users\admin\source\repos\lab4_2\lab4_2\Class.h(14,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\admin\source\repos\lab4_2\lab4_2\Class.h(26,21): warning C4018: <: несоответствие типов со знаком и без знака
+  lab4_2.vcxproj -> C:\Users\admin\source\repos\lab4_2\Debug\lab4_2.exe
